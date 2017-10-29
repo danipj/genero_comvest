@@ -1,0 +1,328 @@
+Administração (Noturno)
+Nao declarado 0.0%
+Masculino 50.8%
+Feminino 49.2%
+Administração Pública (Noturno)
+Nao declarado 0.0%
+Masculino 39.6%
+Feminino 60.4%
+Arquitetura e Urbanismo (Noturno)
+Nao declarado 0.0%
+Masculino 23.5%
+Feminino 76.5%
+Artes Cênicas (Integral)
+Nao declarado 0.0%
+Masculino 33.9%
+Feminino 66.1%
+Artes Visuais (Integral)
+Nao declarado 0.0%
+Masculino 28.7%
+Feminino 71.3%
+Ciência da Computação (Noturno)
+Nao declarado 0.0%
+Masculino 86.9%
+Feminino 13.1%
+Ciências Biológicas (Integral)
+Nao declarado 0.0%
+Masculino 30.5%
+Feminino 69.5%
+Ciências Biológicas - Licenciatura (Noturno)
+Nao declarado 0.0%
+Masculino 29.7%
+Feminino 70.3%
+Ciências do Esporte (Integral)
+Nao declarado 0.0%
+Masculino 57.2%
+Feminino 42.8%
+Ciências Econômicas (Integral)
+Nao declarado 0.0%
+Masculino 66.1%
+Feminino 33.9%
+Ciências Econômicas (Noturno)
+Nao declarado 0.0%
+Masculino 68.0%
+Feminino 32.0%
+Ciências Sociais (Integral)
+Nao declarado 0.0%
+Masculino 32.2%
+Feminino 67.8%
+Ciências Sociais (Noturno)
+Nao declarado 0.0%
+Masculino 40.3%
+Feminino 59.7%
+Comunicação Social - Midialogia (Integral)
+Nao declarado 0.0%
+Masculino 38.2%
+Feminino 61.8%
+Curso 51-Engenharia Física; Física; Física: Física Médica e Biomédica; Matemática; Matemática Aplicada e Computacional (Integral)
+Nao declarado 0.0%
+Masculino 67.4%
+Feminino 32.6%
+Dança (Integral)
+Nao declarado 0.0%
+Masculino 6.5%
+Feminino 93.5%
+Educação Física (Integral)
+Nao declarado 0.0%
+Masculino 60.9%
+Feminino 39.1%
+Educação Física (Noturno)
+Nao declarado 0.0%
+Masculino 58.4%
+Feminino 41.6%
+Enfermagem (Integral)
+Nao declarado 0.0%
+Masculino 10.9%
+Feminino 89.1%
+Engenharia Agrícola (Integral)
+Nao declarado 0.0%
+Masculino 67.6%
+Feminino 32.4%
+Engenharia Ambiental (Noturno)
+Nao declarado 0.0%
+Masculino 44.8%
+Feminino 55.2%
+Engenharia Civil (Integral)
+Nao declarado 0.0%
+Masculino 62.6%
+Feminino 37.4%
+Engenharia de Alimentos (Integral)
+Nao declarado 0.0%
+Masculino 29.7%
+Feminino 70.3%
+Engenharia de Alimentos (Noturno)
+Nao declarado 0.0%
+Masculino 34.4%
+Feminino 65.6%
+Engenharia de Computação (Integral)
+Nao declarado 0.0%
+Masculino 87.3%
+Feminino 12.7%
+Engenharia de Controle e Automação (Noturno)
+Nao declarado 0.0%
+Masculino 87.8%
+Feminino 12.2%
+Engenharia de Manufatura (Integral)
+Nao declarado 0.0%
+Masculino 68.9%
+Feminino 31.1%
+Engenharia de Produção (Integral)
+Nao declarado 0.0%
+Masculino 65.6%
+Feminino 34.4%
+Engenharia de Telecomunicações (Integral)
+Nao declarado 0.0%
+Masculino 67.0%
+Feminino 33.0%
+Engenharia Elétrica (Integral)
+Nao declarado 0.0%
+Masculino 82.9%
+Feminino 17.1%
+Engenharia Elétrica (Noturno)
+Nao declarado 0.0%
+Masculino 85.8%
+Feminino 14.2%
+Engenharia Mecânica (Integral)
+Nao declarado 0.0%
+Masculino 89.0%
+Feminino 11.0%
+Engenharia Química (Integral)
+Nao declarado 0.0%
+Masculino 52.4%
+Feminino 47.6%
+Engenharia Química (Noturno)
+Nao declarado 0.0%
+Masculino 51.5%
+Feminino 48.5%
+Estatística (Integral)
+Nao declarado 0.0%
+Masculino 58.5%
+Feminino 41.5%
+Estudos Literários (Integral)
+Nao declarado 0.0%
+Masculino 24.0%
+Feminino 76.0%
+Farmácia (Integral)
+Nao declarado 0.0%
+Masculino 21.6%
+Feminino 78.4%
+Filosofia (Integral)
+Nao declarado 0.0%
+Masculino 62.6%
+Feminino 37.4%
+Física - Licenciatura (Noturno)
+Nao declarado 0.0%
+Masculino 70.7%
+Feminino 29.3%
+Fonoaudiologia (Integral)
+Nao declarado 0.0%
+Masculino 8.2%
+Feminino 91.8%
+Geografia (Integral)
+Nao declarado 0.0%
+Masculino 54.4%
+Feminino 45.6%
+Geografia (Noturno)
+Nao declarado 0.0%
+Masculino 51.5%
+Feminino 48.5%
+Geologia (Integral)
+Nao declarado 0.0%
+Masculino 51.6%
+Feminino 48.4%
+História (Integral)
+Nao declarado 0.0%
+Masculino 46.4%
+Feminino 53.6%
+Letras - Licenciatura (Integral)
+Nao declarado 0.0%
+Masculino 22.4%
+Feminino 77.6%
+Letras - Licenciatura (Noturno)
+Nao declarado 0.0%
+Masculino 27.2%
+Feminino 72.8%
+Licenciatura Integrada Química/Física (Noturno)
+Nao declarado 0.0%
+Masculino 49.8%
+Feminino 50.2%
+Linguística (Integral)
+Nao declarado 0.0%
+Masculino 47.4%
+Feminino 52.6%
+Matemática - Licenciatura (Noturno)
+Nao declarado 0.0%
+Masculino 60.4%
+Feminino 39.6%
+Medicina (Integral)
+Nao declarado 0.0%
+Masculino 32.0%
+Feminino 68.0%
+Música Erudita: Instrumentos (Contrabaixo) (Integral)
+Nao declarado Inscritos em número insuficiente para essa análise. Total menor que 5.
+Masculino As informações são autodeclaradas pelos inscritos.
+Feminino O que você deseja fazer agora?
+Música Erudita: Instrumentos (Flauta) (Integral)
+Nao declarado 0.0%
+Masculino 71.4%
+Feminino 28.6%
+Música Erudita: Instrumentos (Percussão) (Integral)
+Nao declarado As informações são autodeclaradas pelos inscritos.
+Masculino O que você deseja fazer agora?
+Feminino Ir para o Vestibular
+Música Erudita: Instrumentos (Piano) (Integral)
+Nao declarado 0.0%
+Masculino 52.2%
+Feminino 47.8%
+Música Erudita: Instrumentos (Trombone) (Integral)
+Nao declarado 0.0%
+Masculino 77.8%
+Feminino 22.2%
+Música Erudita: Instrumentos (Trompete) (Integral)
+Nao declarado As informações são autodeclaradas pelos inscritos.
+Masculino O que você deseja fazer agora?
+Feminino Ir para o Vestibular
+Música Erudita: Instrumentos (Viola) (Integral)
+Nao declarado 0.0%
+Masculino 40.0%
+Feminino 60.0%
+Música Erudita: Instrumentos (Violão) (Integral)
+Nao declarado 0.0%
+Masculino 85.7%
+Feminino 14.3%
+Música Erudita: Instrumentos (Violino) (Integral)
+Nao declarado 0.0%
+Masculino 66.7%
+Feminino 33.3%
+Música Erudita: Instrumentos (Violoncelo) (Integral)
+Nao declarado 0.0%
+Masculino 66.7%
+Feminino 33.3%
+Música Erudita: Instrumentos (Voz) (Integral)
+Nao declarado 0.0%
+Masculino 41.7%
+Feminino 58.3%
+Música Popular: Instrumentos (Bateria) (Integral)
+Nao declarado 0.0%
+Masculino 86.7%
+Feminino 13.3%
+Música Popular: Instrumentos (Contrabaixo) (Integral)
+Nao declarado 0.0%
+Masculino 100.0%
+Feminino 0.0%
+Música Popular: Instrumentos (Guitarra) (Integral)
+Nao declarado 0.0%
+Masculino 95.3%
+Feminino 4.7%
+Música Popular: Instrumentos (Piano) (Integral)
+Nao declarado 0.0%
+Masculino 72.7%
+Feminino 27.3%
+Música Popular: Instrumentos (Saxofone) (Integral)
+Nao declarado As informações são autodeclaradas pelos inscritos.
+Masculino O que você deseja fazer agora?
+Feminino Ir para o Vestibular
+Música Popular: Instrumentos (Violão) (Integral)
+Nao declarado 0.0%
+Masculino 77.8%
+Feminino 22.2%
+Música Popular: Instrumentos (Voz) (Integral)
+Nao declarado 0.0%
+Masculino 23.1%
+Feminino 76.9%
+Música: Composição (Integral)
+Nao declarado 0.0%
+Masculino 84.6%
+Feminino 15.4%
+Música: Licenciatura (Integral)
+Nao declarado 0.0%
+Masculino 59.6%
+Feminino 40.4%
+Música: Regência (Integral)
+Nao declarado 0.0%
+Masculino 83.3%
+Feminino 16.7%
+Nutrição (Integral)
+Nao declarado 0.0%
+Masculino 16.8%
+Feminino 83.2%
+Odontologia (Integral)
+Nao declarado 0.0%
+Masculino 24.3%
+Feminino 75.7%
+Pedagogia - Licenciatura (Integral)
+Nao declarado 0.0%
+Masculino 7.2%
+Feminino 92.8%
+Pedagogia - Licenciatura (Noturno)
+Nao declarado 0.0%
+Masculino 14.4%
+Feminino 85.6%
+Química (Integral)
+Nao declarado 0.0%
+Masculino 40.9%
+Feminino 59.1%
+Química Tecnológica (Noturno)
+Nao declarado 0.0%
+Masculino 36.9%
+Feminino 63.1%
+Sistemas de Informação (Integral)
+Nao declarado 0.0%
+Masculino 71.2%
+Feminino 28.8%
+Tecnologia em Análise e Desenvolvimento de Sistemas (Noturno)
+Nao declarado 0.0%
+Masculino 81.2%
+Feminino 18.8%
+Tecnologia em Construção de Edifícios (Noturno)
+Nao declarado 0.0%
+Masculino 44.7%
+Feminino 55.3%
+Tecnologia em Saneamento Ambiental (Integral)
+Nao declarado 0.0%
+Masculino 31.2%
+Feminino 68.8%
+Tecnologia em Saneamento Ambiental (Noturno)
+Nao declarado 0.0%
+Masculino 33.3%
+Feminino 66.7%
